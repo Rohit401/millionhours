@@ -1,0 +1,61 @@
+.educomponent {
+    width: 90vw;
+    height: 100vh;
+    background-image: url("../img/Edu1.png");
+    background-size: 100% 100%;
+    background-image:  linear-gradient(brown);
+    margin-left: 50px;
+    margin-top:0.6px;
+    background-repeat: no-repeat;
+   
+    
+    }
+.edubox{
+    display: grid;
+    grid-template-columns:  1fr 1fr ;
+    
+
+}
+.educommon{
+    display: grid;
+    place-items:center;
+    margin-top: 70vh;
+
+}
+.educommon p{
+    text-align: justify;
+}
+.edubox2 p{
+    color: black;
+    font-family: sans-serif;
+   font-size: 1.3vw;
+   justify-content: center;
+   padding-right:10px ;
+  
+}
+.edubox1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    width: 40vw;
+    background-color: whitesmoke;
+    opacity: 0.5;
+    height: 100px;
+}
+.readlink{
+
+    padding-right: 150px;
+    font-size: large;
+    
+}
+.buttons{
+    margin-top: -10px;
+    padding-left: 300px;
+    padding-bottom: 25px;
+    
+
+}

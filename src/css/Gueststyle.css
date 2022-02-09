@@ -1,0 +1,25 @@
+.modal-body{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+      
+    }
+    .btn1{
+        background-color:#3498db;
+    
+    
+    }
+    .apply{
+        background-color:#32ff7e;
+    }
+    .btn1:hover{
+        background-color: darkorange;
+    
+    }
+    .close{
+        background-color:#32ff7e ;
+    }
+    .guest{
+        padding-top: 10px;
+    }

@@ -1,0 +1,50 @@
+.navbar-collapse{
+    flex-grow: initial;
+    align-items: center;
+}
+
+ /* .nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #ffffff;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    transition-property: color, background-color, border-color;
+    transition-duration: 0.15s, 0.15s, 0.15s;
+    transition-timing-function: ease-in-out, ease-in-out, ease-in-out;
+    transition-delay: 0s, 0s, 0s;
+} */
+
+
+/* .bg-info{
+    color: #3742fa;
+}
+
+.navbar-brand{
+    color: #ffffff;
+}
+
+
+@media (min-width: 768px) { 
+    .navbar-nav{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 90%;
+        margin:auto;
+    }
+ }
+
+ .movecard{
+    padding-left: 20px;
+     justify-items:left;
+ }
+
+.space{
+    padding-left: 10;
+}
+
+
+
+  
+  */
